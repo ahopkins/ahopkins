@@ -12,5 +12,5 @@ class Adam:
 			await self.oss.do(inputs)
 		
 	def sleep(self):
-		raise NotImplemented
+		raise NotImplementedError
 ```
