@@ -2,7 +2,7 @@
 class Adam:
 
 	def __init__(self):
-		self.work = PacketFabric("Sr. Software Engineer")
+		self.work = PacketFabric("Lead Sr. Software Engineer")
 		self.oss = Sanic("Core Maintainer")
 		self.home = Israel("Negev")
 
