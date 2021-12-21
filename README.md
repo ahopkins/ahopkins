@@ -14,3 +14,5 @@ class Adam:
 	def sleep(self):
 		raise NotImplementedError
 ```
+
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahopkins&theme=dark&show_icons=true)
