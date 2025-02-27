@@ -1,6 +1,6 @@
 ```python
 class Adam:
-    work = EtzLime()
+    work = Lumen("Sr Dir of Data Architecture and Governance")
     oss = Sanic("Core Maintainer")
     home = Israel("Negev")
 
